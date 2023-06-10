@@ -5,7 +5,7 @@ Simple Responsive Portfolio by React and Sanity.
 ## Features
 
 - JavaScript, React, HTML, SCSS
-- Scrollmagic
+- Scroll Magic
 
 
 ## Demo
